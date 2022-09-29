@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313852737246",
+    "project_id": "heztech-9ab6b",
+    "storage_bucket": "heztech-9ab6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313852737246:android:9c84f632dcbca552e5744f",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313852737246-bs5orja9tpcmkeu857mf8ab6veosb9n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterproject",
+            "certificate_hash": "88fb8101a4a70dd9eaf4e48c249a4244e6c26549"
+          }
+        },
+        {
+          "client_id": "313852737246-oslqksf4gp08dmknt41anvrjn0kjboes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaI12vHOwlWrIypU_hsfuheP6Lc-vHw_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313852737246-oslqksf4gp08dmknt41anvrjn0kjboes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
